@@ -5,7 +5,7 @@
 
 - 👾 I also worked on a fake Airbnb website called [Switch and Share](https://github.com/LutherTS/switch_and_share).
 
-- 🌱 I’m currently learning **React, Typescript and SASS to become a better front end dev**.
+- 🌱 I’m currently learning **React, Redux, Typescript and SASS to become a better front end dev**.
 
 - 👯 I’m looking to collaborate on **any fun new project involving Ruby, rails, HTML, CSS and Javascript**.
 
