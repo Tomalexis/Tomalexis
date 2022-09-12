@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on finishing my game project called [Wagon Quest](https://github.com/Tomalexis/wagon-quest).
 
-- 👾 I also worked on a fake Airbnb website called [Switch and Share](https://github.com/LutherTS/switch_and_share).
+- 👾 I also worked on a fake game renting website called [Switch and Share](https://github.com/LutherTS/switch_and_share).
 
 - 🌱 I’m currently learning **React, Redux, Typescript and SASS to become a better front end dev**.
 
