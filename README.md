@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A junior frontend developer from Paris 😸</h3>
 
-- 🔭 I’m currently working on [finishing Wagon Quest](https://github.com/Tomalexis/wagon-quest)
+- 🔭 I’m currently working on finishing my game project called [Wagon Quest](https://github.com/Tomalexis/wagon-quest).
 
-- 🌱 I’m currently learning **React, Typescript and SASS**
+- 👾 I also worked on a fake Airbnb website called [Switch and Share](https://github.com/LutherTS/switch_and_share).
 
-- 👯 I’m looking to collaborate on **any fun project involving Ruby, rails, HTML, CSS and Javascript**
+- 🌱 I’m currently learning **React, Typescript and SASS to become a better front end dev**.
 
-- 💬 Ask me about **Ruby, Rails, HTML, CSS and Javascript**
+- 👯 I’m looking to collaborate on **any fun new project involving Ruby, rails, HTML, CSS and Javascript**.
+
+- 💬 Ask me about **Ruby, Rails, HTML, CSS and Javascript**.
 
 - 📫 How to reach me **thomasalexisgirard@gmail.com**
 
